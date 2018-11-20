@@ -84,7 +84,7 @@
 		&.primary {
 			background-color: _palette(accent-border);
 			box-shadow: none;
-			color: _palette(fg-bold) !important;
+			color: #fff !important;
 
 			&:hover {
 				background-color: saturate(lighten(_palette(accent), 15), 10);
